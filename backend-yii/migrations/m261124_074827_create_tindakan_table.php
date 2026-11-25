@@ -50,7 +50,6 @@ class m261124_074827_create_tindakan_table extends Migration
         );
     }
 
-
     /**
      * {@inheritdoc}
      */
