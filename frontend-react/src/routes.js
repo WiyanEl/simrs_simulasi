@@ -55,7 +55,7 @@ export const routes = [
   { path: '/master/jadwal-dokter', name: 'Master Jadwal Dokter', element: MasterJadwalDokter },
   { path: '/master/tindakan', name: 'Master Tindakan', element: MasterTindakan },
   { path: '/master/obat', name: 'Master Obat', element: MasterObat },
-  { path: '/master/user', name: 'Master Obat', element: MasterUser },
+  { path: '/master/user', name: 'Master Pengguna', element: MasterUser },
 
   { path: '/registrasi/pasien', name: 'Daftar Pasien', element: RegistrasiPasien },
   { path: '/registrasi/registrasi-ruangan', name: 'Registrasi Pasien', element: RegistrasiRuangan },
